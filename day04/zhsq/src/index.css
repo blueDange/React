@@ -1,8 +1,0 @@
-* {
-    /* 所有元素的盒子模型计算方案 */
-    /*box-sizing: content-box;  默认值，内容盒子总宽度： margin+border+padding+width*/
-    box-sizing: border-box; /*边框盒子总宽度：margin+width*/
-}
-body {
-    margin: 0;
-}
