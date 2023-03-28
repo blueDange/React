@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<title>pie_chart</title>
+<path d="M29,60c13.807,0,25-11.193,25-25c0-0.553-0.447-1-1-1H30V11c0-0.552-0.448-1-1-1C15.193,10,4,21.193,4,35
+	C4,48.807,15.193,60,29,60z M28,12v23c0,0.553,0.448,1,1,1h23c-0.564,12.689-11.311,22.52-24,21.955
+	c-12.69-0.565-22.52-11.311-21.955-24C6.575,22.056,16.101,12.53,28,12z"/>
+<path d="M33,6c-0.552,0-1,0.448-1,1v24c0,0.552,0.448,1,1,1h24c0.553,0,1-0.448,1-1c0.006-0.066,0.006-0.133,0-0.2
+	C57.891,17.071,46.729,6,33,6z M34,30V8c11.934,0.508,21.492,10.067,22,22H34z"/>
+</svg>
